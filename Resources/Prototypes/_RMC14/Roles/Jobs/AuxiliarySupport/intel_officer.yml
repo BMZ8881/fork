@@ -13,10 +13,7 @@
     time: 18000 # 5 hour
   - !type:RoleTimeRequirement
     role: CMJobFireteamLeader
-    time: 18000 # 5 hour
-  - !type:RoleTimeRequirement
-    role: CMJobSquadLeader
-    time: 18000 # 5 hour
+    time: 36000 # 10 hour
   ranks:
     RMCRankSecondLT: []
   startingGear: CMGearIntelOfficer
