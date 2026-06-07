@@ -15,7 +15,7 @@
     role: CMJobFireteamLeader
     time: 18000 # 5 hour
   - !type:RoleTimeRequirement
-    role: CMSquadLeader
+    role: CMJobSquadLeader
     time: 18000 # 5 hour
   ranks:
     RMCRankSecondLT: []
