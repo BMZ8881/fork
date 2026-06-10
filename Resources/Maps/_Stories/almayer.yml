@@ -172827,27 +172827,11 @@ entities:
     - type: Transform
       pos: 26.434029,84.77989
       parent: 1
-    - type: HandheldLight
-      toggleActionEntity: 3
-    - type: ActionsContainer
-    - type: ContainerContainer
-      containers:
-        actions: !type:Container
-          ents:
-          - 3
   - uid: 4
     components:
     - type: Transform
       pos: -98.850655,-16.50052
       parent: 1
-    - type: HandheldLight
-      toggleActionEntity: 5
-    - type: ActionsContainer
-    - type: ContainerContainer
-      containers:
-        actions: !type:Container
-          ents:
-          - 5
   - uid: 23672
     components:
     - type: Transform
